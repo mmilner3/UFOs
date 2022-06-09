@@ -6,7 +6,7 @@ The purpose of this project is to take in data around UFO sitings and create a v
 ## Results
 This data can be leveraged to understand where and when UFO sitings have been reported as well as understanding what was seen to see if there are any similar reports that have came through
 
-![image](link)
+![image](https://github.com/mmilner3/UFOs/blob/main/static/images/Capture.PNG)
 
 
 ## Summary 
